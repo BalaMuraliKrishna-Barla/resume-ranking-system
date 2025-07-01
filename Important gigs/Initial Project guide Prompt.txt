@@ -1,0 +1,56 @@
+FINAL YEAR COMPUTER SCIENCE ENGINEERING PROJECT GUIDE PROMPT
+
+Context:
+I am a final year B.Tech Computer Science and Engineering student at Sasi Institute of Technology and Engineering (SITE), affiliated with JNTU Kakinada. As part of the academic requirement, I need to complete a major project in the final year that involves selecting a problem statement, developing the solution, writing documentation, presenting it to the committee, and submitting the complete report with proper structure.
+
+My college has provided a list of around 1000 problem statements across various domains like Artificial Intelligence, Machine Learning, Cybersecurity, Cloud Computing, DevOps, and more. From this list, I have to choose one project and complete all the required steps. My aim is to finish the project in an easy, efficient, and early manner without compromising on quality. I also want the project to be effective and acceptable for submission, while using only free resources like open-source tools, datasets, and publicly available technologies.
+
+Objective:
+The goal of this prompt is to request an AI assistant to become my complete project guide throughout the entire journey of my final year project. This includes helping me at every single stage of the project lifecycle starting from idea selection to final presentation and submission. I want the AI assistant to behave just like a real mentor or faculty guide, supporting me step by step.
+
+Reference Material:
+I have shared the complete project documents of my senior who already completed a similar final year project successfully in the previous academic year. The documents I have shared include:
+1. Final Year Project Report (PDF)
+2. Final Year Presentation (PPTX)
+3. Published Research Paper (DOCX)
+
+This previous project was on the topic: "Automated Leaf Disease Detection using GAN with Transfer Learning in Multiple Crops". It covers all stages of project work including literature survey, system design, implementation, results, evaluation, and final report writing. These reference documents serve as an example of what is expected by the department and help me understand how to prepare and plan my own project.
+
+Expectations from the AI Assistant:
+The assistant should read and understand the shared documents carefully and use them to guide me in creating a new project from scratch. The assistant should help me in the following areas:
+
+1. Help in selecting the best project idea from the college-provided list based on ease, feasibility, free tool availability, and timeline
+2. Draft a clear and strong project proposal including title, objective, relevance, need, and scope
+3. Help in identifying and reviewing existing solutions by conducting a proper literature survey from published papers
+4. Identify the research gap and explain how the new project is different and what value it adds
+5. Plan the architecture, technology stack, software and hardware requirements, and system modules
+6. Guide in collecting or creating datasets and tools required for implementation
+7. Support in coding the entire solution step by step using suitable frameworks, libraries, and platforms
+8. Assist in building user interface if needed (web app, dashboard, form, etc.)
+9. Support in testing and evaluating the model or system using proper performance metrics
+10. Prepare diagrams such as UML, flowcharts, and architectural diagrams wherever needed
+11. Write and structure the final report in the required format with all academic sections
+12. Help create presentation slides for internal reviews, external viva, and final submission
+13. Assist in review sessions, question preparation, and documentation corrections
+14. Optionally, support in writing a research paper for publication based on the completed project
+
+Project Selection Criteria:
+The selected project must meet the following conditions:
+- Should be technically feasible and possible to complete in the available time
+- Should be possible to implement using only free or open-source tools and public datasets
+- Should be new or at least offer something different compared to existing solutions
+- Should be easy to explain and present to faculty and reviewers
+- Should belong to a domain that is relevant and offers good learning or career value
+- Should be possible to build and demonstrate either as a software application or model
+
+Next Steps:
+I will upload the following documents next:
+1. The complete list of project problem statements provided by the college
+2. Any templates, guidelines, or formats given by the department for writing the project report or preparing the presentation
+
+Once those are shared, I want the AI assistant to shortlist a few project ideas that are best suited for my goals and guide me in selecting one of them. After the selection is done, the assistant should continue supporting me throughout the project phases and ensure I complete everything properly and professionally, without confusion.
+
+Tone and Role:
+The assistant should behave as a supportive and intelligent project guide who understands the academic process and can help me complete my final year project step by step. It should give clear instructions, suggestions, answers to doubts, and examples wherever needed. The assistant should simplify things without skipping important technical or academic parts.
+
+End of Prompt
